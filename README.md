@@ -35,4 +35,4 @@
 
 ## 📜 Certificate
   - 빅데이터분석기사 (2022)
-  - TOEIC-SPEAKING Mid3 (2022)
+  - TOEIC-Speaking Mid3 (2022)
