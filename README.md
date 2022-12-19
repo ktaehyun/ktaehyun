@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 🐶
 
-<!--
-**ktaehyun/ktaehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+```
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p align="left">
+    <a href="https://git.io/streak-stats">
+      <img height="170" src="http://github-readme-streak-stats.herokuapp.com?user=ktaehyun&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
+    </a>
+    &nbsp;
+    <a href="https://solved.ac/xoguswndeld">
+      <img height="170" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xoguswndeld" alt="ktaehyun's baekjoon stat" />
+    </a>
+  </p>
+</div>
+
+## 🗂 Personal History
+### Education
+
+- 2022.05 ~ 2022.12 Metaverse Academy
+  - AI 1기
+  - 과학기술정보통신부 주관
+  - 🥉 최종 성과 공유회 장려상(한국전파진흥협회장)
+- 쿠버네티스 전문가 양성 과정
+  - goorm 주관
+  - 🥇 프로젝트 성과 1등
+- Big Leader AI Academy
+  - K-DATA 주관
+- 한성대학교
+  - 산업경영공학과
+
+## 📜 Certificate
+  - 빅데이터분석기사(2022)
+  - TOEIC-SPEAKING Mid2 (2022)
