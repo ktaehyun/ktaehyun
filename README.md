@@ -20,7 +20,7 @@
 ## 🗂 Personal History
 ### Education
 
-- 2022.05 ~ 2022.12 Metaverse Academy
+- 2022.05 ~ 2022.12 [Metaverse Academy](https://mtvs.kr/)
   - AI 1기
   - 과학기술정보통신부 주관
   - 🥉 최종 성과 공유회 장려상(한국전파진흥협회장)
