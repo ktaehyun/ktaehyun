@@ -36,7 +36,7 @@ ktaehyun = {
   - 🥉 최종 성과 공유회 4등 장려상(한국전파진흥협회장)
 - 2021.12 ~ 2022.05 / [쿠버네티스 전문가 양성 과정](https://goorm.notion.site/3-beda6e9d0af346a58ffab67cfac8b491)
   - goorm 주관
-  - 🏆 최종 프로젝트 1등
+  - 🏆 최종 프로젝트 수행
 - 2021.06 ~ 2021.09 / [빅리더 AI 아카데미](https://bigleader.net/)
   - K-DATA 주관
   - 울산항만공사 협업 프로젝트 수행
