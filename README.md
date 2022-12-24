@@ -1,6 +1,16 @@
 # Hi there 🐶
 
 ```python
+ktaehyun = {
+  Learning: ["AI", "Network", "Metaverse"],
+  LearningSkills: [Tensorflow, Pytorch, Sklearn, Kubernetes, Docker, Unity],
+  code: [Python, SQL, HTML5, CSS3],
+  technologies: {
+    BackEnd: [Flask],
+    MLOps: [AWS, Kubernetes, Docker, MLflow],
+    DataBase: [MySQL, MariaDB, PostgreSQL, Oracle]
+    }
+  }
 ```
 
 ## 📊 GitHub Stats
