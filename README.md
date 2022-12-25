@@ -6,7 +6,7 @@ ktaehyun = {
   LearningSkills: [Tensorflow, Pytorch, Sklearn, Kubernetes, Docker, Unity],
   code: [Python, SQL, HTML5, CSS3],
   technologies: {
-    AI: [DeepLearning, MachineLearning, ReinforcementLearning],
+    AI: [DL, ML, Vision, NLP, RL],
     MLOps: [AWS, Kubernetes, Docker, MLflow],
     BackEnd: [Flask],
     DataBase: [MySQL, MariaDB, PostgreSQL, Oracle]
