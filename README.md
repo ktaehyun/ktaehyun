@@ -9,7 +9,7 @@ ktaehyun = {
     AI: [DL, ML, Vision, NLP, RL],
     MLOps: [AWS, Kubernetes, Docker, MLflow],
     BackEnd: [Flask],
-    DataBase: [MySQL, MariaDB, PostgreSQL, Oracle]
+    DataBase: [MySQL, PostgreSQL, MariaDB, Oracle]
     }
   }
 ```
