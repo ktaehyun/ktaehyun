@@ -4,7 +4,7 @@
 ktaehyun = {
   Learning: ["AI", "Network", "Metaverse"],
   LearningSkills: [Tensorflow, Pytorch, Sklearn, Kubernetes, Docker, Unity],
-  code: [Python, SQL, HTML5, CSS3],
+  code: [Python, SQL, HTML5, CSS3, JavaScript],
   technologies: {
     AI: [DL, ML, Vision, NLP, RL],
     MLOps: [AWS, Kubernetes, Docker, MLflow],
