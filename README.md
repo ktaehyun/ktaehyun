@@ -7,7 +7,7 @@ ktaehyun = {
   code: [Python, SQL, HTML5, CSS3, JavaScript],
   technologies: {
     AI: [DL, ML, Vision, NLP, RL],
-    MLOps: [AWS, Kubernetes, Docker, MLflow, Jenkins, ArgoCD],
+    MLOps: [AWS, Kubernetes, Docker, Jenkins, ArgoCD],
     BackEnd: [Flask],
     DataBase: [MySQL, PostgreSQL, MariaDB, Oracle]
     }
