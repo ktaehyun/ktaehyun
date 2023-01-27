@@ -49,4 +49,4 @@ ktaehyun = {
   - 빅데이터분석기사 (2022)
   - TOEIC-Speaking Mid2 (2022)
   - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50 (2021)
-  - 마이데이터 홍보콘텐츠 공모전 장려상 (K-DATA 주관, 2020)
+  - 마이데이터 홍보콘텐츠 공모전 장려상 (KDATA 주관, 2020)
