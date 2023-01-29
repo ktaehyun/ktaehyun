@@ -8,7 +8,7 @@ ktaehyun = {
   technologies: {
     AI: [DL, ML, Vision, NLP, RL],
     MLOps: [AWS, Kubernetes, Docker, Jenkins, ArgoCD],
-    BackEnd: [Flask],
+    BackEnd: [Flask, FastAPI],
     DataBase: [MySQL, PostgreSQL, MariaDB, Oracle]
     }
   }
