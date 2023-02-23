@@ -29,8 +29,12 @@ ktaehyun = {
 </div>
 
 ## 🗂 Personal History
-### Education
+### Consultation
+- 2022.12 ~ 2023.02 / 서강대학교 메타버스전문대학원, REALBLOX
+  - 1차 진행
+  - Using: Recommender Systems, Searching Engine
 
+### Education
 - 2022.05 ~ 2022.12 / [Metaverse Academy](https://mtvs.kr/)
   - 과학기술정보통신부 주관
   - Learning: AI, MLOps, AWS
