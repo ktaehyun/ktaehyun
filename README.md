@@ -30,7 +30,7 @@ ktaehyun = {
 
 ## 🗂 Personal History
 ### Consultation
-- 2022.12 ~ 2023.02 / 서강대학교 메타버스전문대학원, REALBLOX
+- 2022.01 ~ 2023.02 / 서강대학교 메타버스전문대학원, REALBLOX
   - 1차 진행
   - Role: AI
   - Used: Recommender-Systems, Searching-Engine, Correct-Typos
