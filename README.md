@@ -52,6 +52,7 @@ ktaehyun = {
   - 산업경영공학과
 
 ## 📜 Certificate
+  - SQLD (2023)
   - 빅데이터분석기사 (2022)
   - TOEIC-Speaking Mid2 (2022)
   - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50 (2021)
