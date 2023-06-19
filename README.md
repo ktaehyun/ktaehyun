@@ -2,8 +2,8 @@
 
 ```python
 ktaehyun = {
-  Learning: ["AI", "Network", "Metaverse"],
-  LearningSkills: [TensorFlow, PyTorch, Numpy, Pandas, Kubernetes, Docker, Unity],
+  Learning: ["AI", "Network", "Cloud", "Container", "Metaverse"],
+  LearningSkills: [TensorFlow, PyTorch, Numpy, Pandas, Scikitlearn, Kubernetes, Docker, Unity],
   code: [Python, SQL, HTML5, CSS3, JavaScript],
   technologies: {
     AI: [DL, ML, Vision, NLP],
