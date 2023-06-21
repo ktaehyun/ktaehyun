@@ -35,7 +35,7 @@ ktaehyun = {
   - Role: AI
   - Used: Recommender-Systems, Searching-Engine, Correct-Typos
 ### Education
-- 2022.05 ~ 2022.12 / [Metaverse Academy](https://mtvs.kr/)
+- 2022.05 ~ 2022.12 / [메타버스 아카데미](https://mtvs.kr/)
   - 과학기술정보통신부 주관
   - Role: AI, MLOps
   - 🥈 최종 성과 공유회 3등, 한국전파진흥협회장상 수상
