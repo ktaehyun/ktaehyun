@@ -38,7 +38,7 @@ ktaehyun = {
 - 2022.05 ~ 2022.12 / [Metaverse Academy](https://mtvs.kr/)
   - 과학기술정보통신부 주관
   - Role: AI, MLOps
-  - 🥈 최종 성과 공유회 4등, 한국전파진흥협회장상 수상
+  - 🥈 최종 성과 공유회 3등, 한국전파진흥협회장상 수상
   - 💰 서강대학교 대학원 연계 프로젝트로 연장 진행 선정
 - 2021.12 ~ 2022.05 / [쿠버네티스 전문가 양성 과정](https://goorm.notion.site/3-beda6e9d0af346a58ffab67cfac8b491)
   - goorm 주관
