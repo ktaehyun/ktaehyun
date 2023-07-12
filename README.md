@@ -36,8 +36,8 @@ ktaehyun = {
   - Used: Recommender-Systems, Searching-Engine, Correct-Typos
 ### Education
 - 2022.05 ~ 2022.12 / [메타버스 아카데미](https://mtvs.kr/)
-  - 과학기술정보통신부 주관
-  - Role: AI, MLOps
+  - 과학기술정보통신부, 한국전파진흥협회 주관
+  - Role: AI Engineer
   - 🥈 최종 성과 공유회 3등, 한국전파진흥협회장상 수상
   - 💰 서강대학교 대학원 연계 프로젝트로 연장 진행 선정
 - 2021.12 ~ 2022.05 / [쿠버네티스 전문가 양성 과정](https://goorm.notion.site/3-beda6e9d0af346a58ffab67cfac8b491)
@@ -45,7 +45,7 @@ ktaehyun = {
   - Role: Infra, DB
   - 🏆 최종 프로젝트 우수 교육생 선발 팀
 - 2021.06 ~ 2021.09 / [빅리더 AI 아카데미](https://bigleader.net/)
-  - KDATA 주관
+  - 한국데이터산업진흥원 주관
   - Role: AI, Data
   - 🥉 울산항만공사 협업 프로젝트 수행
 - 2015.03 ~ 2022.02 / 한성대학교
