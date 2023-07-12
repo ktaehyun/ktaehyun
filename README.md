@@ -31,7 +31,7 @@ ktaehyun = {
 ## 🗂 Personal History
 ### Consultation
 - 2023.01 ~ 2023.02 / 서강대학교 메타버스전문대학원
-  - 대학교 메타버스 플랫폼 프로젝트: 1차 진행
+  - 대학교 메타버스 플랫폼 프로젝트 수행
   - Role: AI
   - Used: Recommender-Systems, Searching-Engine, Correct-Typos
 ### Education
