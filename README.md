@@ -32,7 +32,7 @@ ktaehyun = {
 ### Consultation
 - 2023.01 ~ 2023.02 / 서강대학교 메타버스전문대학원
   - 대학교 메타버스 플랫폼 프로젝트 수행
-  - Role: AI
+  - Role: AI, BackEnd
   - Used: Recommender-Systems, Searching-Engine, Correct-Typos
 ### Education
 - 2022.05 ~ 2022.12 / [메타버스 아카데미](https://mtvs.kr/)
@@ -46,7 +46,7 @@ ktaehyun = {
   - 🏆 최종 프로젝트 우수 교육생 선발 팀
 - 2021.06 ~ 2021.09 / [빅리더 AI 아카데미](https://bigleader.net/)
   - 한국데이터산업진흥원 주관
-  - Role: AI, Data
+  - Role: AI, Data Analysis, DB
   - 🥉 울산항만공사 협업 프로젝트 수행
 - 2015.03 ~ 2022.02 / 한성대학교
   - 산업경영공학과
@@ -56,4 +56,3 @@ ktaehyun = {
   - 빅데이터분석기사 (2022)
   - TOEIC-Speaking Mid2 (2022)
   - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50 (2021)
-  - 마이데이터 홍보콘텐츠 공모전 장려상 (KDATA 주관, 2020)
